@@ -1,0 +1,29 @@
+Ordenanza Nº17/2023
+Ordenanza Nº 17/2023
+General Paz, 27/03/2023
+VISTO
+La necesidad de crear un Museo y Archivo Histórico Municipal Comunitario en la localidad de Loma Verde, y;
+CONSIDERANDO
+Que, dada la iniciativa de la Secretaría de Turismo y Cultura junto con el Delegado de Loma Verde y la directora del Museo Histórico Regional Marta Inés Martínez para la creación de un Museo y Archivo Histórico Comunitario en Loma Verde, para que se rescate, registre, conserve y difunda la historia del territorio y de su comunidad a través de testimonios de distinta índole que dan cuenta de la historia de esta comunidad en aspectos económicos, sociales, productivos, culturales, científicos, tecnológicos y naturales;
+Que, el pueblo de Loma Verde tiene una vasta historia de estancias y actividad productiva previa a su fundación que forjaron los cimientos del territorio;
+Que, en sus inmediaciones se estableció la histórica estancia "Los Merinos", de la cual hay registros desde el año 1873, a raíz de procederse a la mensura de una propiedad que se dividió en cuatro sectores, y uno de los campos llegó a manos de los señores Francisco Méndez González y Amadeo Duche, a lo largo de la historia y pasando por diferentes propietarios la estancia fue reconocida por la cría de lanares de calidad, cría de Aberdeen Angus y diversos arboles añosos;
+Que, en aquel terruño funcionó la vieja estancia "La Mostaza" que fue propiedad de Don Juan Manuel de Rosas;
+Que, en la estancia "Los Sajones" se hicieron las primeras esquilas de Buenos Aires y que por amistad con su propietario llegaba de paseo Don Domingo Faustino Sarmiento;
+Que, por cuyos campos pasaban carretas y diligencias;
+Que, con la llegada del Ferrocarril Provincial de Buenos Aires, el 18 de septiembre de 1911, se le da el nombre de Loma Verde a la estación intermedia para los servicios interurbanos y de carga, hacia y desde La Plata, Mira Pampa, Loma Negra y Azul por su extensa lomada cubierta de pastos que conservaban su color verde intenso de sus pasturas durante la mayor parte del año;
+Que se formó allí un núcleo poblacional que se vio enriquecido con la afluencia de inmigrantes, que en su mayoría se dedicaron a las tareas rurales;
+Que, todo este movimiento dio origen a la instalación de comercios, escuelas, bibliotecas, salas sanitarias, iglesia, etc.;
+Que, en sus más de cien años de existencia han vivido allí hombres y mujeres trabajadores y cargados de talento; y que a pesar del impacto que significó el levantamiento del ferrocarril, los vecinos apostaron a seguir viviendo en ese terruño;
+Que, por todas estas razones históricas es una aspiración de la comunidad de Loma Verde tratar de mantener y registrar los valores de sus antepasados, que dieron origen al progreso socio económico de nuestra población, siendo obligación ineludible de las autoridades bregar por el logro de estos anhelados propósitos;
+Que, se debe procurar crear espacios necesarios para que puedan reconocerse e identificarse los elementos propios de la población, tendientes a la difusión, valorización y enriquecimiento de un auténtico valor cultural local;
+Que, es necesario contar con un museo local para preservar y conservar el patrimonio histórico, natural y cultural, tangible e intangible, que se genera y se hereda; ya que de no existir estas instituciones dicho patrimonio, y los valores testimoniales que conlleva, corre el riesgo de destruirse o perderse. De allí que una de las más sólidas maneras de evitar la pérdida de dichos bienes es el impulso y desarrollo de estas instituciones, para facilitar la difusión de la herencia cultural de la región;
+Que, la creación del museo de Loma Verde tiene un sustento indiscutido en el trabajo que desde hace años realiza el delegado junto con su comunidad, los que han dado sentido a este desafío; han relevado el patrimonio testimonial que tiene la localidad, se han puesto en contacto con otros actores que pudieran enriquecer o plasmar este deseo. Deseo que será para toda la comunidad de Loma Verde y de General Paz, ofreciéndolo como legado al futuro;
+Que, existe el compromiso real de donación y preservación de objetos, hoy en manos de familias lomaverdenses, y de espacios y recorridos que aportan a la identidad de la localidad y podrían incorporarse a circuitos de reconocimiento organizados desde el museo;
+Que, si bien General Paz cuenta con un Museo en su ciudad cabecera, es de suma importancia cultural fomentar en las localidades del interior del partido la preservación de sus propias identidades, haciendo énfasis en sus estrechos vínculos con la historia rural;
+Que, la existencia de centros culturales, como lo son los Museos, en localidades del interior, contribuirán al desarrollo del Turismo Rural, beneficiando no solo a la localidad en cuestión, sino al Partido de General Paz en su conjunto;
+Que, se ha estudiado detenidamente la inquietud de plasmar esta iniciativa, determinando su viabilidad, consubstanciada con sus nobles valores, que servirá de aliciente y apoyo para que nuestra juventud y generaciones venideras valoren su terruño al conocer debidamente su pasado;
+Que, es necesario ordenar las medidas tendientes a preservar y conservar la documentación que dan cuenta de nuestra historia, siendo testimonio y memoria del pasado y por ello de nuestra población y su vida;
+Que, su funcionamiento debe posibilitar la canalización de los deseos de nuestra comunidad, dentro de un marco participativo, siendo para ello esencial una conducción genuinamente descentralizada, que asegure la intervención efectiva de las personas y entidades del medio;
+Por ello, el Honorable Concejo Deliberante de General Paz, en uso de las facultades que le confiere la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, sanciona la siguiente:
+ORDENANZA
+ORDENANZA
