@@ -1,0 +1,28 @@
+Ordenanza Nº10/2023
+Ordenanza Nº 10/2023
+General Paz, 13/03/2023
+VISTO:
+La necesidad de crear el Programa de Gestión Integral de Residuos Sólidos Urbanos en el Distrito de General Paz, y;
+CONSIDERANDO:
+Que, el progresivo aumento de la generación de residuos sólidos urbanos y su posterior desecho no es sustentable en el tiempo.
+Que, el actual Intendente de la ciudad y funcionarios del actual Poder Ejecutivo Municipal se han pronunciado públicamente reconociendo el problema, y realizando anuncios de una próxima puesta en marcha de una política de gestión de residuos sólidos urbanos.
+Que, si bien es urgente que la ciudad ponga en marcha un plan que revierta esta situación, es necesario instaurar un programa sostenido, fruto de un compromiso político que genere una política de estado, con amplios acuerdos, objetivos concretos y realizables.
+Que, el programa debe contener medidas y acciones que estén dirigidas a una continua reducción de la generación de residuos, a la recuperación y el reciclado de desechos reutilizables, al compostaje, como así también a la disminución de la toxicidad de la basura.
+Que, como es sabido, el ciudadano no tiene claro el lugar preciso en donde arrojar sus desperdicios o desechos cuando hace renovación de artículos del hogar o limpieza de sus depósitos. El comercio en general sufre la misma duda cuando debe desechar lo inservible. La industria que genera desechos inocuos no sabe correctamente donde debe depositarlos y si lo hace tiene la incertidumbre de si lo está haciendo correctamente.
+Que, la Gestión de Manejo Integral de los Residuos Sólidos Urbanos abarca los aspectos del ciclo de los RSU, su manejo integral, la Planta de Tratamiento integral y su explotación y su inserción en la sociedad. La Gestión Integral es un sistema de manejo de los RSU que, basado en el Desarrollo Sostenible, tiene como objetivo primordial el mejoramiento de la salud de la población, entendiendo a la salud en su sentido más amplio, y la preservación ambiental.
+Que, el aspecto valorativo de los RSU está asociado al concepto de prevención cuantitativa, la cual promueve la minimización de las cantidades de residuos a generar y también a disponer, como asimismo alienta la Maximización de su aprovechamiento y valorización. Esta se logra a través de la aplicación de la trilogía de las 4R -Reducir, Reusar, Recuperar y Reciclar
+Que, es necesario para implementar esta ordenanza Municipal crear dentro el Organigrama Municipal –en el lugar que el Departamento Ejecutivo Comunal crea conveniente- un programa de Gestión de Manejo Integral de los Residuos Sólidos Urbanos que contará con el apoyo técnico, operativo, logístico, contable de todo el Departamento Ejecutivo comunal.
+Que, la Gestión del Manejo Integral de los Residuos Sólidos Urbanos requiere regulación del sector, capacidad técnica y administrativa y responsabilidades compartidas entre gobiernos y comunidades a nivel nacional, provincial y municipal.
+Que, dentro de las opciones técnicas de gestión se debe considerar acciones educativas tales como la prevención de la generación de desechos por la optimización o modificación de procesos productivos ecológicos, el reciclaje, el almacenamiento, tratamiento y disposición final.
+Que, dentro de las opciones administrativas, se necesita un marco de regulación y legislación mínimo para el control eficaz de los residuos y desechos municipales (incluso los peligrosos o especiales), desde su producción hasta su disposición final.
+Que, es necesario profundizar la sensibilidad de la población acerca de la temática ambiental, para lograr así que nuestra ciudadanía tome una actitud proactiva con miras al consumo sustentable.
+Que, para que el programa tenga éxito es fundamental la concientización y educación de la comunidad para lo cual debemos utilizar todas las herramientas comunicacionales posibles que ayuden a generar el hábito en la comunidad.
+Que, según experiencias de otras ciudades, y expresiones de expertos es fundamental involucrar en el programa a escuelas, instituciones educativas en general y jardines de infantes, con acciones especiales, porque los chicos, así concientizados, concientizan a sus familias, y porque así la basura de las escuelas mismas recibe tratamiento adecuado.
+Que, es parte de la concientización, que en todas las instituciones sociales o civiles de la ciudad se realice el reciclaje donde se encuentren los dos cestos en convivencia, esto se debe a que en lugares de uso masivo se incorpore esta metodología de reciclaje, ayude a que el vecino lo interiorice y tome conciencia de la importancia de este proceso.
+Que, desde el mismo municipio es necesario lograr a mediano y largo plazo la reducción en la compra de elementos que no puedan reutilizarse o reciclarse; debiendo el mismo municipio buscar los mecanismos de concientización y estímulo hacia las empresas y/o fabricantes locales como a los ciudadanos en cuanto a la utilización de envases o embalajes reutilizables y/o reciclables para sus productos.
+Que, es importante para cumplir este objetivo que el empresariado local asuma un rol fundamental en el reciclado y generación de nuevos residuos.
+Que, es importante la incorporación de sectores vinculados al trabajo informal, también denominados cartoneros o recuperadores urbanos, con el objeto de incluirlos al trabajo formal bajo las condiciones de seguridad e higiene.
+Que la Gestión integral de los RSU debe priorizar los Aspectos Legales según la legislación municipal, provincial y nacional.
+Por ello, el Honorable Concejo Deliberante de General Paz, en uso de las facultades que le confiere la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, sanciona la presente:
+ORDENANZA
+ORDENANZA
