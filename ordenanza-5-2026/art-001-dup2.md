@@ -1,0 +1,1 @@
+ARTÍCULO 1°: Autorizar el uso del espacio público, predio de la Isla Central de la Laguna de Ranchos para la realización de la Fiesta de la Torta Frita, el día 12 de abril de 2026, a partir de las 12 hs.-

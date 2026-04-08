@@ -1,0 +1,2 @@
+ARTÍCULO 5°: Regístrese, comuníquese a quienes corresponda y archívese.-
+-Dada en la sala de Sesiones del Honorable Concejo Deliberante de General Paz, jurisdicción de la Provincia de Buenos Aires, a los 25 días del mes de marzo del año 2026.
