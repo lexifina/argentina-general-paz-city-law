@@ -1,0 +1,1 @@
+Artículo 1°: Exímase de las tasas de servicios urbanos (T.S.U) y alumbrado público a los inmuebles cuyo titular de dominio posee el CUD (Certificado Único de Discapacidad) y/o si algún miembro de la familia conviviente posee. Dicha exención sólo se otorgará a la residencia real de los mismos.--------------------------

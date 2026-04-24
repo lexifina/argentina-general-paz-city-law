@@ -1,0 +1,1 @@
+Artículo 2°: En caso de cumplimentar lo establecido en el artículo 1°, se le otorgará el beneficio de Tarifa Social, como lo dispone la Autoridad Del Agua de la Provincia de Buenos Aires, que será del 50%.-------------------------------------------

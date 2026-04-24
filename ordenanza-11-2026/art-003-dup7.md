@@ -1,0 +1,1 @@
+Artículo 3°: La exención dispuesta en el artículo 1°, será factible de aplicación cuando los presuntos beneficiarios presenten el CUD (Certificado Único de Discapacidad) y dicho grupo familiar no cuente con un ingreso superior a dos salarios mínimos vital y móvil.------------------------------------------------------------------

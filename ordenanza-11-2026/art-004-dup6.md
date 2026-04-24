@@ -1,0 +1,1 @@
+Artículo 4°: Una vez emitido el acto administrativo comenzará a regir el beneficio dispuesto en el Artículo 1° por el término de dos años. No quedando alcanzada la deuda que se haya generado con anterioridad.-----------------------------------------

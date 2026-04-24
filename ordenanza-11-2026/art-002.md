@@ -1,0 +1,1 @@
+Artículo 2°: La exención únicamente será aplicable a la vivienda habitacional del integrante del cuerpo de bomberos voluntarios del Partido de General Paz, cuando este tenga la propiedad en un 100% o una parte indivisa de la misma.---

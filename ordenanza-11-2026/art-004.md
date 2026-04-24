@@ -1,0 +1,1 @@
+Artículo 4°: A la nota dispuesta en el artículo 1, punto 3, deberá el solicitante adjuntar la resolución que otorgue el/los beneficio/s jubilatorio/s y último recibo de haber. Asimismo, deberá firmar declaración jurada de ingresos.------------------

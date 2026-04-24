@@ -1,0 +1,1 @@
+Artículo 3°: Exímase del pago total de los gastos que emanen de la solicitud o renovación del carnet de conducir, cuando se trate del carnet categoría D (Automotores de seguridad y/o emergencia), de acuerdo a la Ley 12.738. No se exime de la obligación de dar el respectivo examen de aptitud física y manejo.--

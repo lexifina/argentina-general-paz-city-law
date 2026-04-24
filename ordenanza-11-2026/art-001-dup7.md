@@ -1,0 +1,1 @@
+Artículo 1°: Exímese totalmente de la tasa de servicios urbanos (T.S.U) y de la Tasa de Alumbrado a los miembros del cuerpo activo de Bomberos Voluntarios de General Paz. Los cuales deberán presentar constancia de Registro Único de Bomberos de Argentina (R.U.B.A).----------------------------------------------------------
