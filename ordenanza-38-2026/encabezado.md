@@ -1,0 +1,22 @@
+Ordenanza Nº38/2026
+Ordenanza Nº 38/2026
+General Paz, 24/08/2026
+VISTO:
+La necesidad de imponer un nombre al Salón de Usos Múltiples (SUM) de la localidad de Loma Verde; y,
+CONSIDERANDO:
+Que, el Salón de Usos Múltiples de la localidad de Loma Verde fue inaugurado el 1° de julio de 2022, como resultado de las gestiones realizadas por el Municipio de General Paz ante la Subsecretaría de Hábitat del Ministerio de Desarrollo de la Comunidad de la Provincia de Buenos Aires, constituyéndose en una obra de significativa importancia para el desarrollo social de la comunidad.
+Que, dicho espacio fue concebido como un ámbito destinado al fortalecimiento del entramado comunitario, albergando talleres culturales, actividades recreativas, educativas, deportivas, sociales y de esparcimiento, constituyéndose en un verdadero punto de encuentro para vecinos y vecinas de todas las edades.
+Que, los espacios públicos trascienden su función edilicia cuando son identificados con personas cuya vida representa valores permanentes para la comunidad, contribuyendo a preservar la memoria colectiva, fortalecer la identidad local y transmitir ejemplos de vida a las futuras generaciones.
+Que, el doctor Rubén Gabriel Formia, nacido el 26 de junio de 1954, desarrolló gran parte de su vida en la localidad de Loma Verde, donde cursó sus estudios primarios en la Escuela N° 14, manteniendo durante toda su vida un profundo sentido de pertenencia con la comunidad que lo vio crecer.
+Que, posteriormente cursó sus estudios secundarios en la ciudad de Brandsen, para luego ingresar a la Facultad de Ciencias Médicas de la Universidad Nacional de La Plata, donde obtuvo el título de Médico en el año 1981, abrazando una profesión caracterizada por la vocación de servicio, el compromiso con la salud pública y la solidaridad hacia los demás.
+Que, al iniciarse el conflicto bélico del Atlántico Sur, el 2 de abril de 1982, fue convocado para integrar el Regimiento de Infantería Mecanizada N° 7, desempeñándose en la Sección Sanidad durante la Guerra de Malvinas, brindando asistencia médica y sanitaria a quienes defendían la soberanía nacional en las Islas Malvinas.
+Que, su participación en el conflicto se encuentra documentada mediante registros históricos y fotográficos que testimonian su presencia en el Teatro de Operaciones del Atlántico Sur junto a sus camaradas, reflejando el compromiso, la entrega y el espíritu de servicio con que desempeñó su misión.
+Que, la causa Malvinas constituye una política de Estado permanente de la República Argentina, encontrando reconocimiento expreso en la Disposición Transitoria Primera de la Constitución Nacional, que reafirma la legítima e imprescriptible soberanía argentina sobre las Islas Malvinas, Georgias del Sur, Sandwich del Sur y los espacios marítimos e insulares correspondientes.
+Que, quienes participaron de la Guerra de Malvinas representan un ejemplo de patriotismo, entrega y compromiso con la Nación, resultando deber de los poderes públicos preservar su memoria y reconocer su legado mediante actos institucionales permanentes.
+Que, el Dr. Rubén Gabriel Formia sintetizó, a lo largo de su vida, los más altos valores del servicio público: como médico, dedicó su profesión al cuidado de la vida humana; como Veterano de Guerra de Malvinas, puso sus conocimientos al servicio de la defensa de la Patria; y como vecino de Loma Verde, dejó una huella imborrable en la comunidad.
+Que, imponer su nombre al Salón de Usos Múltiples constituye un reconocimiento institucional permanente a quien honró a su pueblo, permitiendo que las generaciones presentes y futuras encuentren en ese espacio no sólo un lugar para compartir actividades comunitarias, sino también un sitio de memoria, identidad y homenaje.
+Que, la presente iniciativa procura preservar el patrimonio histórico y humano de la localidad, fortaleciendo el sentido de pertenencia de la comunidad y manteniendo viva la memoria de quienes, mediante sus acciones, engrandecieron a Loma Verde y al Partido de General Paz.
+Que, el Dr. Rubén Gabriel Formia falleció el 22 de junio de 2003, dejando un legado de compromiso, solidaridad, profesionalismo y amor por su pueblo que merece ser recordado de manera permanente.
+Por ello, el Honorable Concejo Deliberante de General Paz, en uso de las facultades que le confiere la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, sanciona la presente:
+ORDENANZA
+ORDENANZA
