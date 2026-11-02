@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-general-paz",
+  "code": "AR-B-GENERAL-PAZ",
+  "name": "General Paz",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-general-paz-city-law",
+  "build": "built: municipal ordinances (118 ordinances, 118 versions) from https://sibom.slyt.gba.gob.ar/cities/53",
+  "language": "es",
+  "sources": 1
+}
