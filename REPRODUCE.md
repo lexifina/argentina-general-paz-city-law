@@ -1,12 +1,13 @@
 # How this repository was made (General Paz)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de General Paz | <https://sibom.slyt.gba.gob.ar/cities/53> | 2026-11-02 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de General Paz (SIBOM), published ordinances and official PDF attachments | <https://sibom.slyt.gba.gob.ar/cities/53> | 2026-11-05 | Official municipal acts; attribution in LICENSE. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -132,20 +133,58 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-41-2026` | Ordenanza 41/2026: Autorízase a la Asociación Civil “Peñeros de Ranchos” a utilizar el predio del Fortín de Ranchos, el día 8 de noviembre de 2026, a partir de las 16:00 horas y hasta la finalización de la jornada, para la realización de u | 1 | 2026-09-24 to 2026-09-24 |
 | `ordenanza-42-2026` | Ordenanza 42/2026: Autorízase al Ministerio Jesús Vive para las Naciones a realizar una “Jornada Familiar al Aire Libre”, el día sábado 19 de septiembre de 2026, a partir de las 15:00 horas, en el espacio verde ubicado frente al Natatorio  | 1 | 2026-09-24 to 2026-09-24 |
 | `ordenanza-43-2026` | Ordenanza 43/2026: Autorízase a la Parroquia Nuestra Señora del Pilar a disponer el corte transitorio del tránsito vehicular en las arterias comprendidas en el recorrido de la procesión en honor a Nuestra Señora del Pilar, a realizarse el  | 1 | 2026-10-08 to 2026-10-08 |
+| `ordenanza-10-2022` | Ordenanza 10/2022: ARTICULO 1º: Autorizar el corte de la Avenida Campomar entre Belgrano y Alem el día 30 de Abril de 2022 en el horario comprendido entre las 17:30Hs y 21:30 Hs, con motivo de la realización del Acto de Asunción de Autorid | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-13-2022` | Ordenanza 13/2022: ARTÍCULO 1º: Requerir al Departamento Ejecutivo, a través del área de Obras y Servicios Públicos, la colocación de la imagen de Jesús de la Misericordia en la Plaza de los niños “Alconada”.------------------------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-14-2022` | Ordenanza 14/2022: ARTÍCULO 1º: Aprobar a referéndum la adjudicación de la única oferta presentada por la firma playa construcciones S.R.L en la Licitación Pública Nº 02/2022 referente a “Construcción de pavimento urbano de hormigón simple | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-18-2022` | Ordenanza 18/2022: ARTICULO 1º: Declarar el Estado de Emergencia y/o Desastre Agropecuario a la totalidad de los establecimientos rurales del Distrito de General Paz, en el período comprendido entre el 1° de enero y el 31 de marzo de 2022. | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-24-2022` | Ordenanza 24/2022: ARTÍCULO 1º: Crear el Programa de Forestación Distrital denominado “Una familia, un bebe, un árbol”.----------------------------------------------------------------------------------------------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-25-2022` | Ordenanza 25/2022: ARTÍCULO 1°: Imponer el nombre “SUEÑO ENCANTADO” a la Plaza ubicada en la calle 82 bis y Acceso Intendente Ferrante del Barrio Lázaro, de la localidad de Ranchos.--------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-32-2022` | Ordenanza 32/2022: ARTÍCULO 1°: Autorícese al Departamento Ejecutivo a ceder a título gratuito el inmueble nominado catastralmente como Circ. I, Secc. A, Manzana-. 26, Parcela 2C de la localidad de Ranchos, Partido de General Paz.--------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-33-2022` | Ordenanza 33/2022: ARTÍCULO 1°: Imponer el nombre "la esquina de los niños" a la plaza ubicada en las calles 75 y Dantas de la Localidad de Ranchos-------------------------------------------------------------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-39-2022` | Ordenanza 39/2022: ARTÍCULO 1°: Adhiérase el Distrito de General Paz, en lo que resulta de su competencia, a la Ley Provincial N°15.276, que establece la capacitación obligatoria en desarrollo sostenible y en materia ambiental para todas l | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-4-2022` | Ordenanza 4/2022: ARTÍCULO 1º: Denominar los eventos deportivos que se realicen en el distrito de General Paz, durante el año 2022, con el nombre: “a 40 años, Malvinas nos une”.---------------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-42-2022` | Ordenanza 42/2022: ARTÍCULO 1º: Créase en el Distrito de General Paz el programa “Reciclemos Colillas de Cigarrillos” que incluya en primera instancia la instalación de colilleros, en la laguna, en Plaza de Mayo, en la Municipalidad, en el | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-5-2022` | Ordenanza 5/2022: ARTÍCULO 1º: Colocar una placa de reconocimiento en aquellas viviendas situadas dentro del Municipio de General Paz, en las que viven o vivieron soldados ex combatientes, que participaron en las acciones bélicas desarrol | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-51-2022` | Ordenanza 51/2022: ARTÍCULO 1°: Autorizar el uso de la Plaza de Mayo, el día 24 de septiembre del corriente de 09:30hs a 13:00hs a la Fundación Argentina Social "Somos Alguien como vos" y al Partido Justicialista de General Paz, para lleva | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-52-2022` | Ordenanza 52/2022: ARTÍCULO 1º: Autorizar el corte de la calle Sarmiento entre las calles Mitre y Alem el día 26 de septiembre de 2022 en el horario comprendido entre las 17:15Hs y 19:00 Hs, con motivo de la realización de la apertura de l | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-59-2022` | Ordenanza 59/2022: ARTÍCULO 1°: Aprobar en forma definitiva el Decreto Nº 834/22 correspondiente a la comisión de pre-adjudicación, la cual sugiere adjudicar la Licitación Pública Nº 11/2022 referente a "El arrendamiento y la explotación d | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-66-2022` | Ordenanza 66/2022: ARTÍCULO 1º: Créase el Programa Integral sobre Lactancia, el cual tendrá como objetivo la implementación de espacios públicos en dependencias Municipales para personas en periodo de lactancia, donde podrán amamantar a su | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-70-2022` | Ordenanza 70/2022: ARTÍCULO 1°: Reconocer como personalidad destacada del Honorable Concejo Deliberante de Gral Paz post mortem al Concejal Juan Martin Escapil.-------------- | 1 | 2025-01-19 to 2025-01-19 |
+| `ordenanza-10-2023` | Ordenanza 10/2023: ARTÍCULO 1°: Son objetivos generales de la presente Ordenanza: | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-11-2023` | Ordenanza 11/2023: ARTÍCULO 1°: El Departamento Ejecutivo Municipal dispondrá una clara y específica campaña de difusión y publicidad, tendiente a lograr la educación, concientización y el hábito en la población, sobre la clasificación y s | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-17-2023` | Ordenanza 17/2023: ARTÍCULO 1°: Créase en la localidad de Loma Verde un Museo y Archivo Histórico Municipal Comunitario. - | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-22-2023` | Ordenanza 22/2023: ARTÍCULO 1º: Autorizar el corte de la calle Leopoldo Casal entre las calles Alem y Mitre el día 20 de Mayo de 2023 en el horario comprendido entre las 16:00hs y las 21:00hs, para la realización de la “Noche de los Museos | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-23-2023` | Ordenanza 23/2023: ARTÍCULO 1°: Procédase a dar cumplimiento a lo ordenado por la Ley Provincial N°14.783 de Cupo de personas Travestis, Transexuales y Transgénero. En convergencia con los Tratados Internaciones de la OIT (Organización Int | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-30-2023` | Ordenanza 30/2023: ARTÍCULO 1°: Apruébese la Rendición de Cuentas Ejercicio 2022, de acuerdo a la documentación obrante en el Expediente Nº031/2023 del Honorable Concejo Deliberante Expediente 4047-32173/23 del Departamento Ejecutivo y a l | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-34-2023` | Ordenanza 34/2023: ARTÍCULO 1°: Institucionalizar “La Convocatoria al Diálogo para el Encuentro", fijando la organización de dos encuentros semestrales por año calendario, con los distintos representantes y actores del arco político, socia | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-39-2023` | Ordenanza 39/2023: ARTÍCULO 1º: Dentro del marco de la Ley Nacional 24.193 y de la campaña provincia de Donación de órganos de la provincia de Buenos Aires, incorporar en los recibos de las tasas Municipales, la siguiente leyenda “DONAR OR | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-41-2023` | Ordenanza 41/2023: ARTÍCULO 1º: Utilícese el predio de las antiguas vías del tren, comprendido desde el ingreso al pueblo sobre la calle Almafuerte, hasta el puente de ladrillos, el cual va a ser utilizado para la realización de caminatas, | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-43-2023` | Ordenanza 43/2023: ARTÍCULO 1º: Autorizar a la secretaría correspondiente de la Municipalidad de General Paz, al pago que conlleva cubrir, el costo de tendido de Gas que pasa por la Plaza denominada “Esquina de los Niños”.----------------- | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-44-2023` | Ordenanza 44/2023: ARTÍCULO 1º: Autorizar el uso del espacio público, predio de la Isla Central de la Laguna de Ranchos para la realización del 7° Encuentro Nacional de Ford Ranchos, para el día 24 de septiembre de 2023.------------------- | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-55-2023` | Ordenanza 55/2023: ARTÍCULO 1º: Solicitar al Poder Ejecutivo Municipal extender el trayecto de bicisenda que bordea la AV. del Rio hasta el frente del establecimiento educativo EP Nº11 de la localidad de Villanueva.------------------------ | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-56-2023` | Ordenanza 56/2023: ARTÍCULO 1º: Autorizar el corte de la Calle Sarmiento y de la Calle Julio. S. Dantas entre la Avenida Garay y la Calle Leandro Alem el día 2 de noviembre del 2023 a partir de las 10:00hs y hasta las 15:00hs, para la real | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-57-2023` | Ordenanza 57/2023: ARTÍCULO 1º: Autorizar al Departamento Ejecutivo la apertura de las instalaciones de la pileta del Centro de Educación Física, Deportes y Recreación "Intendente Alberto. F. Ferrante" de Ranchos, del Polideportivo de Loma | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-58-2023` | Ordenanza 58/2023: ARTÍCULO 1º: Autorizar a los docentes, ex alumnos y alumnos del Colegio Sagrado Corazón de La Plata , a utilizar la plaza frente al Museo Ferroviario y el playón del Centro Integrador Comunitario N°902, desde el lunes 20 | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-6-2023` | Ordenanza 6/2023: ARTÍCULO 1°: Declarar la Prórroga del Estado de Emergencia y/o Desastre Agropecuario a la totalidad de los establecimientos rurales del Distrito de General Paz, en el período comprendido entre el 1 º de enero y el 31 de  | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-60-2023` | Ordenanza 60/2023: ARTÍCULO 1°: Impóngase el nombre de “Salón de la Democracia” al Recinto de Sesiones del Honorable Concejo Deliberante de General Paz.- | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-62-2023` | Ordenanza 62/2023: ARTÍCULO 1°: Imponer el nombre Alberto “Bolbo” Correa, a la calle sin nombre ubicada entre la Calle Fagnani, calle Pilar de la Vega y camino rural al Retiro en la Localidad de Villanueva.- | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-7-2023` | Ordenanza 7/2023: ARTÍCULO 1º: Autorizar el corte de la intersección de la Calle 59 bis y la Calle 36 del Barrio “La Higuerita”, el día 8 de marzo de 2023 a partir de las 14hs y hasta las 18hs, para la realización de las actividades por e | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-9-2023` | Ordenanza 9/2023: ARTÍCULO 1º: Autorizar el corte de la intersección de la Calle 59 bis y la Calle 36 del Barrio “La Higuerita”, el día 15 de marzo de 2023 a partir de las 17:30hs y hasta las 21:30hs, para la realización de las actividade | 1 | 2025-01-22 to 2025-01-22 |
+| `ordenanza-4-2025-sibom-2194018` | Ordenanza 4/2025: ARTÍCULO N°1: FACULTASE al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato/s de leasing en forma de contratación directa de conformidad a lo establecido por el Art. 156 inc. 2 de la ley orgánica de  | 1 | 2025-04-05 to 2025-04-05 |
 
-The build made 118 commits:
+The build made 156 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 118 | first version of an act |
+| 156 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 118 laws in the record.
-- 236 tags.
+- 156 laws in the record.
+- 274 tags.
 
 ## Dates
 
@@ -157,15 +196,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c5bf03b24e5c2f83906f14382d7ee807c9b6536d34e01ef8ffd8562f6e70a1a3` (667404 bytes).
+- Corpus: sha256 `9c13880990c6541bb1b529abc07751a73b550486aee7dc960fe03c4da1625af7` (1041761 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-118 versions of 118 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 156 history commits and 274 tags (history tip `e5234de9aa5fa18fb95c94085110b54f21c5179e`).
 
 ## Decisions made by hand
 
@@ -174,6 +213,44 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Ordenanza 10/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 13/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 14/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 18/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 24/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 25/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 32/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 33/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 39/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 4/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 42/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 5/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 51/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 52/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 59/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 66/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 70/2022: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 10/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 11/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 17/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 22/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 23/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 30/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 34/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 39/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 41/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 43/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 44/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 55/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 56/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 57/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 58/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 6/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 60/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 62/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 7/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 9/2023: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
+- Ordenanza 4/2025: published source HTML and all linked official PDF text retained unchanged; independent word sequences and characters agree on every retained page. No unprovided operative attachment or unsupported promulgation-dependent date retained. No OCR or model correction. Text as published; consolidation not established.
 
 ## What AI did and did not do
 
@@ -185,3 +262,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model wrote parsing and verification code and classified source images; no legal wording or OCR text was generated or corrected.
